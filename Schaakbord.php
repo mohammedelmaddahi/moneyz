@@ -4,12 +4,10 @@
 
 	<head>
 		<title></title>
-
 		</head>
 
 	<body>
 		<table width="400px" cellspacing="0px" border= "1px">
-
 <?php 
 for( $row=1; $row<=8; $row++) 
 			{ 
